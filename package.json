@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.18",
+    "canvas": "^2.11.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.2",
+    "train-stream": "^1.0.2"
+  }
+}
